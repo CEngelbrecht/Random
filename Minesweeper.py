@@ -1,6 +1,8 @@
 import numpy as np 
 from random import randint
-
+'''
+Script that generates a NxN array and populates a random number of entries with bombs (the number 50)
+, and then populates the rest of the matrix with the corresponding numer of bombs in the vicinity'''
 
 N = 5
 
